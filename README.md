@@ -6,7 +6,7 @@ To get started with this project, you will need to have Flutter installed on you
 
 Once you have Flutter installed, you can clone this repository to your local machine by running the following command in your terminal:
 
-_git clone https://github.com/your-username/quiz-app.git_
+_git clone https://github.com/Mikias-Miessa/Quiz-app-flutter.git_
 
 
 After cloning the repository, you can open the project in your preferred code editor and run it in a simulator or on a physical device.
